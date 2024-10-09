@@ -39,6 +39,7 @@ dependencies:
   firebase_crashlytics: ^4.1.3
   logger: ^2.4.0
   hive_flutter: ^1.1.0
+  hive: ^4.0.0
 
 dev_dependencies:
   flutter_test:
